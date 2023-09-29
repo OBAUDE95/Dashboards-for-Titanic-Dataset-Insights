@@ -1,2 +1,13 @@
-# Dashboards-for-Titanic-Dataset-Insights
-Explore my Titanic dataset analysis. I use Python, Pandas, Seaborn, and Dash to unveil insights on gender-based survival rates, town-specific trends, interactive dashboards, and correlation analysis. Dive into the story of Titanic's passengers.
+# Titanic Dataset Analysis by Obaude Ayodeji
+
+Welcome to my Titanic dataset analysis portfolio! This project uncovers the fascinating story of Titanic passengers using Python, Pandas, Seaborn, Matplotlib, Plotly, and Dash.
+
+**Key Highlights:**
+- **Exploration:** Dive into gender-based and town-specific survival rates.
+- **Interactivity:** Enjoy an interactive dashboard for in-depth exploration.
+- **Correlation:** Uncover data relationships and insights.
+- **Child Analysis:** Delve deeper into child passengers' experiences.
+
+Explore the Titanic's secrets now: [Titanic Analysis Dashboard](https://titanic-analysis-by-obaude-ayodeji.onrender.com/)
+
+Feel free to navigate through the charts, graphs, and insights to discover the untold tales of the Titanic's ill-fated journey.
