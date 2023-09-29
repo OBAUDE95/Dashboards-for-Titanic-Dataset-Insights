@@ -11,3 +11,5 @@ Welcome to my Titanic dataset analysis portfolio! This project uncovers the fasc
 Explore the Titanic's secrets now: [Titanic Analysis Dashboard](https://titanic-analysis-by-obaude-ayodeji.onrender.com/)
 
 Feel free to navigate through the charts, graphs, and insights to discover the untold tales of the Titanic's ill-fated journey.
+
+![image](https://github.com/OBAUDE95/Dashboards-for-Titanic-Dataset-Insights/assets/90180915/1a2ee602-6f87-4749-8204-d43d5bc8a341)
